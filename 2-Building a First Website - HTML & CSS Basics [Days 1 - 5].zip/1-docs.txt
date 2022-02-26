@@ -1,0 +1,1 @@
+# HTML files : contains html code and contains or load css, js code.
