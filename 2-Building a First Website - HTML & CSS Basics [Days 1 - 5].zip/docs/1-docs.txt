@@ -1,3 +1,8 @@
 # 1-  HTML files : contains html code and contains or load css, js code.
 
-# 2- index.html: is the convention and entry point of the website
+# 2- index.html: is the convention and the entry point of the website
+
+# 3- you can not define your own html tags because the browser needs to understand them
+
+    ex: <h1> tag gives the browser the instruction to make text bewteen start/end tag should
+    treat as main heading
