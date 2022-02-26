@@ -27,3 +27,22 @@
 
     4- JavaScript : adding interactivity to web pages
 
+
+    ############ ############ ############ ############ ############ ############
+
+    3- How the web works in deep ?
+
+    1- URL uniform Resource Locator [ https:amazom.com/mobiles ]
+    2- https: Hypertext transfer protocol (secure)
+    3- domain: amazon.com
+            - Human readable address ("identifier of the website")
+    4- mobiles: [path] is a pointer on a give website to a specific resource
+    5- Domain maps to IP [ internet protocol ] a unique identifier address of the network devices
+    6- not easy to memorize ip address for humans so you can access websites using IPs
+    7- every comupter on the int has IP.
+    8- every device has IP address but not every device has adomain
+    9- DNS: Domain Name System: domain IP mapping , stores domain <--> IP translation tables, stores doamin ip lookup tables.
+    10- Browser talk with DNS server to translate doamin to IP address, 
+        then Browser send request to machine that server website.
+    11- this is super quick and takes only ms.
+
