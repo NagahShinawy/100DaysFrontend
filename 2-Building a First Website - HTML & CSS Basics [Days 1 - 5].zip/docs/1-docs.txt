@@ -6,3 +6,10 @@
 
     ex: <h1> tag gives the browser the instruction to make the text bewteen start/end tag should
     treat as main heading
+
+
+# 4- link css files with html
+
+# 5- adding basics style for html elements
+
+# 6- adding graphs (imgs) with border style

@@ -1,0 +1,11 @@
+body h1 {
+    color: rgb(12, 12, 209);
+}
+
+body p {
+    color: brown;
+}
+
+img {
+    border: 2px solid #555;
+}
