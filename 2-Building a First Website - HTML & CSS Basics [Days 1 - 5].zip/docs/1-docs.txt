@@ -1,6 +1,15 @@
+##############   ##############   ##############   ##############   ##############   
+
+
 # 1-  HTML files : contains html code and contains or load css, js code.
 
+
+##############   ##############   ##############   ##############   ##############   
+
+
 # 2- index.html: is the convention and the entry point of the website
+
+##############   ##############   ##############   ##############   ##############   
 
 # 3- you can not define your own html tags because the browser needs to understand them
 
@@ -8,10 +17,44 @@
     treat as main heading
 
 
+##############   ##############   ##############   ##############   ##############   
+
 # 4- link css files with html
+
+##############   ##############   ##############   ##############   ##############   
 
 # 5- adding basics style for html elements
 
+##############   ##############   ##############   ##############   ##############   
 # 6- adding graphs (imgs) with border style
 
+##############   ##############   ##############   ##############   ##############   
+
 # 7- Adding a Favicon to your Website (adding icon to address bar)
+
+
+##############   ##############   ##############   ##############   ##############   
+
+
+# 8- What is HTML ?
+
+Stands for "Hypertext Markup Language."
+HTML is the language used to create webpages.
+"Hypertext" refers to the hyperlinks that an HTML page may contain.
+"Markup language" refers to the way tags are used to define the page layout and elements within the page
+
+ - Markup means: adding extra meaing of the page content, Markup describe the page content
+ like [links, heading, buttons, images, audio, ...]
+
+##############   ##############   ##############   ##############   ##############   ##############   
+
+# 9- What is HTML element ?
+
+ An HTML element is a component of an HTML document that tells a web browser
+ how to structure and interpret / execute a part of the HTML document.
+ HTML elements can contain formatting instructions, semantic meaning, and content.
+
+ - tell the browser which kind of content is displayed (heading, text, images, lists, buttons)
+
+
+
