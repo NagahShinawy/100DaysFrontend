@@ -1,0 +1,4 @@
+#1 - How the web works ?
+
+    # 1- Browsing the web is like calling a friend.
+    # 2- you type URL : uniform resource locator ==> www.amazom.com
