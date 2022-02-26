@@ -1,4 +1,4 @@
-#1 - How the web works ?
+    #1 - How the web works ?
     
     # Request [ client frontend ] Response [ server backend ] cycle
     # 1- Browsing the web is like calling a friend.
@@ -9,3 +9,21 @@
     # 6- The remote computer [server] return back with response to the client [ Browser ]
     # 7- The response is the instructions that the Browse understad
     # 8- web developers write these instructions
+
+
+    ############ ############ ############ ############ ############ ############ 
+
+    2- Which code do we developers write ?
+    # What are these "Browser instructions" ?
+
+    1- instructions [codes] that tell the Browser what should be displayed on the screen.
+    2 - HTML : Hyper text markup language
+            - defined the content and structure of the displayed pages.
+            - build structure and content of web pages.
+            - inputs , forms, text, images
+    
+    3- CSS: Cascading style sheets
+            - define style for web pages
+
+    4- JavaScript : adding interactivity to web pages
+
