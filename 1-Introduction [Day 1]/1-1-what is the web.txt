@@ -44,5 +44,7 @@
     9- DNS: Domain Name System: domain IP mapping , stores domain <--> IP translation tables, stores doamin ip lookup tables.
     10- Browser talk with DNS server to translate doamin to IP address, 
         then Browser send request to machine that server website.
-    11- this is super quick and takes only ms.
+    11- this is super quick and takes only mseconds.
 
+    DNS
+    # https://cs.stanford.edu/people/eroberts/courses/soco/projects/internet/dns.html
