@@ -1,4 +1,11 @@
 #1 - How the web works ?
-
+    
+    # Request [ client frontend ] Response [ server backend ] cycle
     # 1- Browsing the web is like calling a friend.
     # 2- you type URL : uniform resource locator ==> www.amazom.com
+    # 3- I want to see website (request)
+    # 4- HTTP (method of communcation between client and the server)
+    # 5- HTTP the language that client [ Browse ] and server [remote computer] speak
+    # 6- The remote computer [server] return back with response to the client [ Browser ]
+    # 7- The response is the instructions that the Browse understad
+    # 8- web developers write these instructions
