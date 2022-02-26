@@ -4,5 +4,5 @@
 
 # 3- you can not define your own html tags because the browser needs to understand them
 
-    ex: <h1> tag gives the browser the instruction to make text bewteen start/end tag should
+    ex: <h1> tag gives the browser the instruction to make the text bewteen start/end tag should
     treat as main heading
