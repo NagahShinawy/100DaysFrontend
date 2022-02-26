@@ -13,3 +13,5 @@
 # 5- adding basics style for html elements
 
 # 6- adding graphs (imgs) with border style
+
+# 7- Adding a Favicon to your Website (adding icon to address bar)
