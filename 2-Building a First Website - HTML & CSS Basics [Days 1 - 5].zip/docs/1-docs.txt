@@ -101,3 +101,10 @@ allow the browser to present that content correctly
 
     - attributeName=AttributeValue
     - but attname, attrvalue should be supported by html element that you applied to have affect and meaning.
+
+
+##############   ##############   ##############   ##############   ##############   ##############   
+
+15 - style top priority ?
+
+  - inline style using style attribute ==> style element ==>  css style file ===> default html element style.

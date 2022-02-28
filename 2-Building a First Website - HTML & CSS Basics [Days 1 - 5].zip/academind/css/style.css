@@ -12,3 +12,7 @@ body p#course {
 img {
     border: 2px solid #555;
 }
+
+p:last-child {
+    color: green;
+}
