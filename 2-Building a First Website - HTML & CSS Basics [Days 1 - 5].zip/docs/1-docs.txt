@@ -58,3 +58,29 @@ HTML is the language used to create webpages.
 
 
 
+##############   ##############   ##############   ##############   ##############   ##############   
+
+10- They are many avaiable html elements that describe diffrecent things you can add to web pages
+[titles, subtitles, bts, links, imgs, videos, audio, paragraphs]
+
+##############   ##############   ##############   ##############   ##############   ##############   
+
+11- Mozilla Developer Network (MDN): is the html reference .
+
+##############   ##############   ##############   ##############   ##############   ##############   
+
+12 - Why html elements ?
+
+ - without extra annotation, content often has no clear meaning (it's like writing just plain, unformatted text in word)
+ - for example heading, links, ... with elements we can describe pages clearly
+
+
+- telling the browser that something is a title, subtitle, links, images, ... 
+allow the browser to present that content correctly
+        - to regular visitor of your website
+        - to search engine crawlers
+        - to visitors using assistive tech (screen readers)
+
+##############   ##############   ##############   ##############   ##############   ##############   
+
+13 - some (BUT NOT ALL) html elements have default style like [h1, p, ..]
