@@ -61,7 +61,7 @@ HTML is the language used to create webpages.
 ##############   ##############   ##############   ##############   ##############   ##############   
 
 10- They are many avaiable html elements that describe diffrecent things you can add to web pages
-[titles, subtitles, bts, links, imgs, videos, audio, paragraphs]
+[titles, subtitles, bts, links, imgs, videos, audio, paragraphs, ..]
 
 ##############   ##############   ##############   ##############   ##############   ##############   
 
@@ -107,4 +107,7 @@ allow the browser to present that content correctly
 
 15 - style top priority ?
 
-  - inline style using style attribute ==> style element ==>  css style file ===> default html element style.
+  - inline style using style attribute ==> style element <style> </style> ===>  css style file ===> default html element style.
+
+  - css property: css value ==> css propertyValue standerdize just like html elements.
+  - css property value : must be one of the expected values for the property that you are assiging it.
