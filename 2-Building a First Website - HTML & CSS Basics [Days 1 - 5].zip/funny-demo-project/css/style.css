@@ -1,0 +1,16 @@
+div.center {
+    margin: auto;
+    width: 50%;
+    border: 2px solid rgb(68, 66, 66)
+}
+
+div.center h1{
+    text-align: center;
+}
+
+
+/* Todo : why does it work with that ??  */
+div.center img {
+    margin: auto;
+    display: block;
+}
