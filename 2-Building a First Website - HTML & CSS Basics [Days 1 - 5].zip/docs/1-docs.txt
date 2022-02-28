@@ -84,3 +84,20 @@ allow the browser to present that content correctly
 ##############   ##############   ##############   ##############   ##############   ##############   
 
 13 - some (BUT NOT ALL) html elements have default style like [h1, p, ..]
+
+14 - using html attibutes ==> style attribute
+
+    - what is attributes ?
+    - Extra peice of information added to element
+    - html elements supprot diffrecent attibutes but there are shared attibutes between all elements
+    just like style attribute. it is supproted by all html elements.
+
+    - why attibutes ?
+
+        - change html element behaviour.
+        - adding extra behaviour to html element.
+
+    - using <style> element and style attribute for testing purposes
+
+    - attributeName=AttributeValue
+    - but attname, attrvalue should be supported by html element that you applied to have affect and meaning.
