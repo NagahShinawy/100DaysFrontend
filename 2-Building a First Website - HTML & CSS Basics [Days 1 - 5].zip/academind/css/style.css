@@ -16,3 +16,8 @@ img {
 p:last-child {
     color: #008000;
 }
+
+
+* {
+   color:orange; 
+}

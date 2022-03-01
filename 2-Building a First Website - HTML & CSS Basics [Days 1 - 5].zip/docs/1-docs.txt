@@ -150,7 +150,26 @@ allow the browser to present that content correctly
 
 ##############   ##############   ##############   ##############   ##############   ############## 
 
+21- using global css style
 
+- using <style> element. style element is not visible on the screen.
+- style element does not show something to the browser is just to do apply the styles to elements.
 
+- why using style element or using css style files inseated of inline style?
+    - easy to develop and maintain.
+    - no duplications, don't repeat yourself (DRY).
+    - if you need to change something, you have to do everywhere but using <style> or css file
+        you can change just once and it is be applied everywhere.
+##############   ##############   ##############   ##############   ##############   ############## 
+
+22- css syntax
+
+    selector {
+        property: value;
+        property: value;
+        property: value;
+    }
+
+- using * for applying style to all. * means all.
 
 ##############   ##############   ##############   ##############   ##############   ############## 
