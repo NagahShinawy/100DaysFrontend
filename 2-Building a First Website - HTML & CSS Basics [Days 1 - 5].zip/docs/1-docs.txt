@@ -111,3 +111,46 @@ allow the browser to present that content correctly
 
   - css property: css value ==> css propertyValue standerdize just like html elements.
   - css property value : must be one of the expected values for the property that you are assiging it.
+
+
+##############   ##############   ##############   ##############   ##############   ##############   
+
+16 - Hex code : is a unique identifier for one specific color.
+
+ - every color is expressed with 6 digits (you can split 6 digits into 3 pairs of 2 digits)
+ - you present rgb ==> #534b; ==> #55334b;
+ - hex : color is mix of redGreenlue
+
+##############   ##############   ##############   ##############   ##############   ############## 
+
+17- using prettier code formatter
+
+##############   ##############   ##############   ##############   ##############   ############## 
+
+18- working with browser developer tool.
+
+
+##############   ##############   ##############   ##############   ##############   ############## 
+
+19- USER AGENT DEFAULT STYLE: is a default style applied by the browser to the element.
+
+
+##############   ##############   ##############   ##############   ##############   ############## 
+
+
+20- using <a> tag means anchor tag, hyperlink
+
+- you can use internal/external resources using href attribute.
+
+- using target attribute _black to open resource in new tab of browser.
+
+- href attribute tells browser about address / destinition (target) of the resource
+
+- html elements can be nested
+
+##############   ##############   ##############   ##############   ##############   ############## 
+
+
+
+
+##############   ##############   ##############   ##############   ##############   ############## 

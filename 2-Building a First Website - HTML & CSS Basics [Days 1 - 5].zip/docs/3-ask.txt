@@ -16,4 +16,7 @@ What are these ?
 
 ######## ######### ######## ################# ################# #########
 
-start from 14 / Which HTML Elements Exist? [Day 2]
+4- what is hex color code ? 
+
+ - hex vs rgb ?
+ - why are there rgb, hex, cmyk , hsl?

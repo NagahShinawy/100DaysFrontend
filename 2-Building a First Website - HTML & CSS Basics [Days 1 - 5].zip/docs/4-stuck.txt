@@ -1,0 +1,1 @@
+1- install prettier extention for vscode .
