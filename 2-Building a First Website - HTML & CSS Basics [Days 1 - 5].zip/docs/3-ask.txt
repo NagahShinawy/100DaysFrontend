@@ -20,3 +20,11 @@ What are these ?
 
  - hex vs rgb ?
  - why are there rgb, hex, cmyk , hsl?
+
+######## ######### ######## ################# ################# #########
+
+ /* Todo : why does it work with that ??  */
+div.center img {
+    margin: auto;
+    display: block;
+}

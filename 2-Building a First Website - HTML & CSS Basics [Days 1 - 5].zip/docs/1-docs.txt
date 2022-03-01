@@ -160,6 +160,10 @@ allow the browser to present that content correctly
     - no duplications, don't repeat yourself (DRY).
     - if you need to change something, you have to do everywhere but using <style> or css file
         you can change just once and it is be applied everywhere.
+
+- <style> element adds metadata to html document.
+- <style> element is important to browser to style document but not visible itself to the user.
+
 ##############   ##############   ##############   ##############   ##############   ############## 
 
 22- css syntax
@@ -171,5 +175,30 @@ allow the browser to present that content correctly
     }
 
 - using * for applying style to all. * means all.
+
+##############   ##############   ##############   ##############   ##############   ############## 
+
+23 - The anatomy of html page
+    html consist of :
+        1- metadata ==> <head></head> ===> adding more info to webpage
+        2- page content ===> <body>  ===> adding actual content.
+
+
+- <!DOCTYPE html> tells the browser which html version we use. means you are using html version 5.
+
+- browser adds <html>, <head>, <body> automaticlly if there are been missed.
+
+- <title> shows up in the tab and very important to search engine. but not shows up in the webpage itself.
+
+##############   ##############   ##############   ##############   ##############   ############## 
+
+
+
+##############   ##############   ##############   ##############   ##############   ############## 
+
+
+
+##############   ##############   ##############   ##############   ##############   ############## 
+
 
 ##############   ##############   ##############   ##############   ##############   ############## 
