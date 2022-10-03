@@ -1,0 +1,16 @@
+1 - What is Console ?
+the console is an object which provides access to the browser debugging console
+
+- console.log()
+- console.clear()
+- console.error()
+
+- You Check more methods in MDN.
+==========================================================================================
+2- Variables
+- var, let, const
+- var: for global scope.
+- let & const : for block level scope.
+- let : reassign a value
+
+
