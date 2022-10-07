@@ -12,5 +12,16 @@ the console is an object which provides access to the browser debugging console
 - var: for global scope.
 - let & const : for block level scope.
 - let : reassign a value
+- const: can not be change, just readonly,
+
+
+=========================================================================================
+
+3- Destructuring assignment
+
+- The destructuring assignment syntax is a JavaScript expression that makes it possible
+to unpack values from arrays,
+or properties from objects, into distinct variables.
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
 
 
