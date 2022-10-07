@@ -3,5 +3,15 @@
 3- null vs undefined
 4- null is object typeof
 
+
+5- what is empty * 3
+
+    8) ['Orange', 'Apple', 'Banana', 'Mango', empty × 3, 'pears']
+    0: "Orange"
+    1: "Apple"
+    2: "Banana"
+    3: "Mango"
+    7: "pears"
+    length: 8
 ==============================================================
 
