@@ -1,6 +1,7 @@
 1- browser log don't show all js errors
 2- how to use debugger
-
+3- null vs undefined
+4- null is object typeof
 
 ==============================================================
 
