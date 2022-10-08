@@ -59,4 +59,12 @@ const tasks = [
 7- x = [9, 8, 30, 66]
 x['1'] // 8
 why it works with string as index
+====================================
 
+8-
+d = new Date('02-01-1990')
+Thu Feb 01 1990 00:00:00 GMT+0200 (Eastern European Standard Time)
+d.getFullYear()
+1990
+d.getMonth()
+1
