@@ -68,3 +68,10 @@ d.getFullYear()
 1990
 d.getMonth()
 1
+
+
+===============================================
+
+9- window.alert('This is msg') vs alert('This is msg')
+===============================================
+10- e.preventDefault()
