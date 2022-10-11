@@ -10,18 +10,30 @@ const prms = new Promise((resolved, rejected) => {
     if (employees.length === NumsOfEmployees ){
         resolved(employees)
     } else {
-        rejected(Error(`$num of employees is [${employees.length}] not [${NumsOfEmployees}]`))
+        rejected(Error(`num of employees is [${employees.length}] not [${NumsOfEmployees}]`))
     }
 
 }).then(
     (employees) => {
-        for (const index in employees) {
-            console.log(`${parseInt(index) + 1} - ${employees[index]}`)
+        while (accepted.length < NUM_OF_ACCEPTED){
+            const emp = employees[Math.floor(Math.random() * employees.length)]
+            if(!accepted.includes(emp)){
+                accepted.push(emp)
+            }
         }
 
-        const emp = employees[Math.floor(Math.random() * employees.length)]
         console.log(accepted)
+        return accepted
     },
 
-)
+).then(
+    (accepted) => {
+        for (const emp of accepted) {
+            console.log(emp)
+        }
+    },
+
+).catch((reason => {
+    console.log("Bad, ", reason)
+})).finally(() => console.log("Finally Done"))
 
